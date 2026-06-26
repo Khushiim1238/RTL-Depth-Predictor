@@ -1,0 +1,47 @@
+{
+  "Linear Regression": {
+    "MAE": 0.353,
+    "RMSE": 0.594,
+    "Accuracy_within_1": 100.0,
+    "Accuracy_within_2": 100.0,
+    "Inference_ms": 4.48,
+    "Train_time_s": 0.08,
+    "CV_MAE_5fold": 0.949
+  },
+  "Decision Tree": {
+    "MAE": 0.118,
+    "RMSE": 0.343,
+    "Accuracy_within_1": 100.0,
+    "Accuracy_within_2": 100.0,
+    "Inference_ms": 6.28,
+    "Train_time_s": 0.02,
+    "CV_MAE_5fold": 0.947
+  },
+  "Random Forest": {
+    "MAE": 0.529,
+    "RMSE": 0.728,
+    "Accuracy_within_1": 100.0,
+    "Accuracy_within_2": 100.0,
+    "Inference_ms": 203.66,
+    "Train_time_s": 2.39,
+    "CV_MAE_5fold": 0.955
+  },
+  "XGBoost": {
+    "MAE": 0.235,
+    "RMSE": 0.485,
+    "Accuracy_within_1": 100.0,
+    "Accuracy_within_2": 100.0,
+    "Inference_ms": 44.73,
+    "Train_time_s": 1.34,
+    "CV_MAE_5fold": 0.886
+  },
+  "MLP Neural Network": {
+    "MAE": 2.294,
+    "RMSE": 3.172,
+    "Accuracy_within_1": 47.1,
+    "Accuracy_within_2": 58.8,
+    "Inference_ms": 11.71,
+    "Train_time_s": 0.57,
+    "CV_MAE_5fold": 1.751
+  }
+}

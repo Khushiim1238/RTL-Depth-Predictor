@@ -1,0 +1,31 @@
+RTL Combinational Depth Predictor - Model Info
+==================================================
+Model type    : XGBRegressor
+Best model    : XGBoost
+Feature count : 24
+
+Feature columns (in order):
+   1. fanin
+   2. fanout
+   3. signal_width
+   4. op_complexity
+   5. nesting_depth
+   6. operation_count
+   7. has_mul
+   8. has_add
+   9. in_loop
+  10. is_registered
+  11. module_input_count
+  12. conditional_mux_count
+  13. op_type_ADD
+  14. op_type_AND
+  15. op_type_CMP
+  16. op_type_DIV
+  17. op_type_MUL
+  18. op_type_MUX
+  19. op_type_OR
+  20. op_type_OTHER
+  21. op_type_SHL
+  22. op_type_SHR
+  23. op_type_SUB
+  24. op_type_XOR

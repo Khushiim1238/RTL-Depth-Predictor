@@ -1,0 +1,10 @@
+{
+  "XGBoost": {
+    "MAE": 0.235,
+    "RMSE": 0.485,
+    "Accuracy_within_1": 100.0,
+    "Accuracy_within_2": 100.0,
+    "Max_error": 1,
+    "Median_error": 0.0
+  }
+}

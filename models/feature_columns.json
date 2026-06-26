@@ -1,0 +1,29 @@
+{
+  "columns": [
+    "fanin",
+    "fanout",
+    "signal_width",
+    "op_complexity",
+    "nesting_depth",
+    "operation_count",
+    "has_mul",
+    "has_add",
+    "in_loop",
+    "is_registered",
+    "module_input_count",
+    "conditional_mux_count",
+    "op_type_ADD",
+    "op_type_AND",
+    "op_type_CMP",
+    "op_type_DIV",
+    "op_type_MUL",
+    "op_type_MUX",
+    "op_type_OR",
+    "op_type_OTHER",
+    "op_type_SHL",
+    "op_type_SHR",
+    "op_type_SUB",
+    "op_type_XOR"
+  ],
+  "best_model": "XGBoost"
+}
